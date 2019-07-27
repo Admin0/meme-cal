@@ -1,0 +1,56 @@
+{
+  "CURRENCY": {
+    "MNW": {
+      "name": "최저시급",
+      "val": 8350
+    },
+    "SDK": {
+      "name": "순댓국",
+      "val": 5000,
+      "description": "저거 처먹을 바에 시장길에 있는 뜨끈한 돼지고기 들어간 돼지국밥이나 순대구갑 먹지 ㅁㅁ"
+    },
+    "KRW": {
+      "name": "원",
+      "val": 1
+    },
+    "BRC": {
+      "name": "뿌링클",
+      "val": 18000,
+      "description": "맛있다"
+    },
+    "USD": {
+      "name": "달러",
+      "val": 1150
+    },
+    "ZWG": {
+      "name": "짜왕",
+      "val": 300000000,
+      "description": "갓.보.람."
+    }
+  },
+  "POWER": {
+    "SDW": {
+      "name": "서두원",
+      "val": 0.7
+    }
+  },
+  "POPULATION": {
+    "head": {
+      "name": "명",
+      "val": 1
+    },
+    "UBD": {
+      "name": "엄복동",
+      "val": 172212,
+      "description": "자전차왕 엄복동"
+    },
+    "MRY": {
+      "name": "명량",
+      "val": 17615053
+    },
+    "SOL": {
+      "name": "서7",
+      "val": 17615053
+    }
+  }
+}
